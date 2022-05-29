@@ -1,0 +1,5 @@
+name: OnixUI
+author: alvin0319
+main: OnixUI\OnixUIPlugin
+version: 1.0.0
+api: 4.0.0
